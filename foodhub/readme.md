@@ -19,3 +19,7 @@ The data contains the different data related to a food order. The detailed data 
 | rating | Rating given by the customer out of 5 |
 | food_preparation_time | Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation |
 | delivery_time | Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information |
+
+## Notes
+- Notebook implemented on Colab
+- Check the drive mount section to point to your correct file path
